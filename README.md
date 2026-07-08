@@ -1,6 +1,6 @@
 # Jade Dominion Arena — Three.js Action RPG
 
-**Production URL:** _pending Vercel deployment_
+**Production URL:** https://jade-dominion-arena.vercel.app
 
 Jade Dominion Arena is a copyright-safe browser action-RPG inspired by the broad feel of classic Conquer Online 2.0-style systems: isometric click/WASD movement, class choice, fast target combat, skills, potions, loot, shops, Meteor-style +N equipment enhancement, a minimap, quest progression, and a gate boss.
 
@@ -8,7 +8,7 @@ This project does **not** copy Conquer Online assets, names, maps, UI, proprieta
 
 ## Live demo
 
-The Vercel production link will be written here after deployment.
+Play it here: https://jade-dominion-arena.vercel.app
 
 ## Features
 
